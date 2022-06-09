@@ -1,22 +1,20 @@
-# NETFLIX CLONE COM REACT
+# NETFLIX CLONE
 
-### GitHub Page: https://douglasmonteirodev.github.io/netflixclone-com-react/
+## Projeto usando React
 
-### `npm start`
+## GitHub Page: https://douglasmonteirodev.github.io/netflixclone-com-react/build
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Informações
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### O Objetivo dessa aplicação foi criar um clone o mais parecido possivel com a netflix.
 
+### Os dados dados foram consumidos da Api The Movie Tb.
 
-### `npm run build`
+## Descrição
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   `A capa da aplicação é atualizada de forma aleatória toda vez que a página for carregada.`
+-   `Na capa irá mostrar informações especificas da série selecionada.`
+-   `Há várias categorias de filmes.`
+-   `Cada categorias há um botão para mover as categorias para o lado.`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Douglas Monteiro ❤😎
