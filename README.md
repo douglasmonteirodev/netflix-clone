@@ -1,8 +1,10 @@
-# NETFLIX CLONE
+# NETFLIX CLONE COM REACT
 
-## Projeto usando React
+ <p align="center">
+      <img src="src/assets/preview/home_preview.png">
+ </p>
 
-## GitHub Page: https://douglasmonteirodev.github.io/netflixclone-com-react/build
+## Git Page: https://douglasmonteirodev.github.io/netflixclone-com-react/build
 
 ## Informações
 
@@ -17,4 +19,4 @@
 -   `Há várias categorias de filmes.`
 -   `Cada categorias há um botão para mover as categorias para o lado.`
 
-# Douglas Monteiro ❤😎
+## Douglas Monteiro ❤😎
