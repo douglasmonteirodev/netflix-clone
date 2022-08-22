@@ -19,4 +19,4 @@
 -   `Há várias categorias de filmes.`
 -   `Cada categorias há um botão para mover as categorias para o lado.`
 
-## Douglas Monteiro ❤😎
+### Douglas Monteiro ❤😎
