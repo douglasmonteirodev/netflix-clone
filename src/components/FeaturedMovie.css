@@ -71,7 +71,7 @@
   text-decoration: none;
   margin-right: 10px;
   opacity: 1;
-  transition: all ease 0.2s;
+  transition: all ease 0.25s;
 }
 .featured--watchbutton {
   background-color: #fff;
