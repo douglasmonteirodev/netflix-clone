@@ -2,7 +2,7 @@
 
 ## <i>Projeto feito com React JS </i>
 
-## Link: https://douglasmonteirodev.github.io/builds/netflix-clone
+## Link: https://douglasmonteirodev.github.io/builds/netflix-clone/
 
 <p align="center">
       <img src="src/assets/preview/home_preview.png">
