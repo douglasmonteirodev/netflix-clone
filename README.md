@@ -1,8 +1,6 @@
 # NETFLIX CLONE
 
-## <i>Projeto feito com React JS </i>
-
-## Link: https://douglasmonteirodev.github.io/builds/netflixclone/
+[![Blog](https://img.shields.io/website?label=deploy&style=for-the-badge&url=https://netflix-clone-liard-nu.vercel.app/)](https://netflix-clone-liard-nu.vercel.app/)
 
 <p align="center">
       <img src="src/assets/preview/home_preview.png">
@@ -10,13 +8,9 @@
 
 ## Objetivo:
 
-### Foi criar um site o mais similar possivel com o da netflix, principalmente em aspectos visuais
+### Foi criar um site o mais similar possivel com o da netflix, principalmente em aspectos visuais.
 
-## Descrição
-
-###
-
-### <i> Infos: </i>
+## Descrição:
 
 - `A capa da aplicação é atualizada de forma aleatória toda vez que a página for carregada.`
 - `Na capa irá mostrar informações especificas da série selecionada.`
